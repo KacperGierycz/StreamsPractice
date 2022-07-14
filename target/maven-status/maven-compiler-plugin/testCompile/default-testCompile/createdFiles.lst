@@ -1,2 +1,5 @@
-streams\LetterCountTest.class
 streams\UpperCaseTest.class
+streams\LetterCountTest.class
+streams\SumAndReduceTest.class
+streams\FlatMapTest.class
+streams\MaxAndComparatorTest.class

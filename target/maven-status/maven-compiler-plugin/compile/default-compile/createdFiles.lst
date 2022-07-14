@@ -1,2 +1,6 @@
 streams\LetterCount.class
+streams\Person.class
 streams\UpperCase.class
+streams\FlatMap.class
+streams\MaxAndComparator.class
+streams\SumAndReduce.class
