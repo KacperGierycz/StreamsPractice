@@ -3,9 +3,6 @@ package streams;
 import java.util.*;
 
 public class MaxAndComparator {
-// }
-
-
     public static Person getOldestPerson(List<Person> people) {
         return people.stream().max(Comparator.comparingInt(Person::getAge)).get();
     }

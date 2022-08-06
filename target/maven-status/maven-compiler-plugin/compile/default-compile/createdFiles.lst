@@ -1,6 +1,8 @@
 streams\LetterCount.class
-streams\Person.class
-streams\UpperCase.class
+streams\PartitionBy.class
 streams\FlatMap.class
 streams\MaxAndComparator.class
 streams\SumAndReduce.class
+streams\Person.class
+streams\UpperCase.class
+streams\GroupBy.class
