@@ -5,4 +5,5 @@ streams\MaxAndComparator.class
 streams\SumAndReduce.class
 streams\Person.class
 streams\UpperCase.class
+streams\Joining.class
 streams\GroupBy.class

@@ -4,4 +4,5 @@ streams\SumAndReduceTest.class
 streams\FlatMapTest.class
 streams\MaxAndComparatorTest.class
 streams\GroupByTest.class
+streams\JoiningTest.class
 streams\LetterCountTest.class

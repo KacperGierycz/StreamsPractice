@@ -9,3 +9,17 @@ V
 &src/test/java/streams/FlatMapTest.java,0\8\0865ee2893be74e539cbe53b4891db1358c1b211
 Z
 *src/test/java/streams/LetterCountTest.java,0\2\02b622d39806773f601ad74f79252eabfedef8d1
+_
+/src/test/java/streams/MaxAndComparatorTest.java,d\7\d7f4d9fa96a41c33b37322c9fe12c5a2aa29c87c
+[
++src/test/java/streams/SumAndReduceTest.java,a\5\a56b1e0cbb616647f3f12d0eb15429b4dd4f80da
+Z
+*src/test/java/streams/PartitionByTest.java,1\e\1e70040f0d352577b2e6ec30b0da228f135c0612
+w
+G.idea/sonarlint/issuestore/0/8/0865ee2893be74e539cbe53b4891db1358c1b211,d\e\de4eed51da7830e6e2a0982835b3e709ea886c9a
+w
+G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
+w
+G.idea/sonarlint/issuestore/a/d/adcca331312ccbbe05f3fd92cf67ebf480ae984f,2\f\2fc698d98637c7e5496b330879f6c3cd0ba36cff
+V
+&src/test/java/streams/GroupByTest.java,b\6\b6ad28dd056f14056bfa417b48115c17ab658262
